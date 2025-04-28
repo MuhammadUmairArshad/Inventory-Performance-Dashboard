@@ -1,14 +1,14 @@
 # Inventory Performance Dashboard – Stock Health & Optimization
 
-**Dashboard Link:**  https://app.powerbi.com/reportEmbed?reportId=0402201f-5d2f-4d1a-8751-9b869062eb88&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
+### Dashboard Link:  https://app.powerbi.com/reportEmbed?reportId=0402201f-5d2f-4d1a-8751-9b869062eb88&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
 
-**Objective:**  
+### Objective: 
 To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
 
-**Tools Used:**  
+### Tools Used:  
 Power BI
 
-**Data Source:**  
+### Data Source:  
 Sample inventory dataset containing SKU-level data, stock quantities, reorder levels, warehouse locations, and sales activity across 2024–2025.
 
 
